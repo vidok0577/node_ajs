@@ -1,0 +1,23 @@
+{
+  "name": "node_ajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidok0577/node_ajs.git"
+  },
+  "author": "vidok0577",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidok0577/node_ajs/issues"
+  },
+  "homepage": "https://github.com/vidok0577/node_ajs#readme",
+  "description": "",
+  "dependencies": {
+    "@vidok0577/ajs": "^1.0.0"
+  }
+}
